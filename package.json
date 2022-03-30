@@ -1,0 +1,22 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LionRouge1/Testing_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LionRouge1/Testing_practice/issues"
+  },
+  "homepage": "https://github.com/LionRouge1/Testing_practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
